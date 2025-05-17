@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate Gen AI Developer currently working at Revature, with 1.5 years of hands-on experience in building intelligent solutions using Generative AI, MLOps, and data-driven applications.<br><br>✍️ On the side, I’m a tech blog writer, sharing insights, tutorials, and experiments in AI, ML, and cloud technologies to help others learn and grow in the space.<br><br>🚀 Tech Highlights<br>Gen AI | LLMs | LangChain | Prompt Engineering<br><br>Python | SQL | Streamlit | PyTorch | Hugging Face<br><br>Azure | AWS | Databricks | BigQuery<br><br>Data Engineering | MLOps | Model Deployment
+Hi there! I'm a passionate Gen AI Developer currently working at Revature, with 1.5 years of hands-on experience in building intelligent solutions using Generative AI, MLOps, and data-driven applications.<br><br>✍️ On the side, I’m a tech blog writer, sharing insights, tutorials, and experiments in AI, ML, and cloud technologies to help others learn and grow in the space.<br><br>🚀 Tech Highlights<br>Gen AI | LLMs | LangChain | Prompt Engineering<br><br>Python | SQL | Streamlit | PyTorch | Agentic AI | Hugging Face<br><br>Azure | AWS | Databricks | BigQuery<br><br>Data Engineering | MLOps | Model Deployment
 
 
 ## 🌐 Socials:
